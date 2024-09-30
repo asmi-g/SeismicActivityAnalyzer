@@ -1,8 +1,6 @@
 # SeismicActivityAnalyzer
 
 ## NASA Space Apps 2024 Challenge: Seismic Detection Across the Solar System
-
-### About the Challenge
 Planetary seismology missions struggle with the power requirements necessary to send continuous seismic data back to Earth. But only a fraction of this data is scientifically useful! Instead of sending back all the data collected, what if we could program a lander to distinguish signals from noise, and send back only the data we care about? Your challenge is to write a computer program to analyze real data from the Apollo missions and the Mars InSight Lander to identify seismic quakes within the noise!
 
 ### Challenge Background
@@ -14,3 +12,4 @@ A potential solution for this issue is to run algorithms on a lander to differen
 
 ### Project Contributors
 Starbound Voyagers Team: Adam Lam, Asmi Gujral, Robel Gebreselasse, Mya Mckinnon
+![alt text](TeamPicture.jpeg)
