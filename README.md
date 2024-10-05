@@ -13,5 +13,5 @@ A potential solution for this issue is to run algorithms on a lander to differen
 
 
 ### Project Contributors
-Starbound Voyagers Team: Adam Lam, Asmi Gujral, Robel Gebreselasse, Mya Mckinnon
+Starbound Voyagers Team: Adam Lam, Asmi Gujral, Robel Gebreselasse, Mya McKinnon
 <!--![alt text](Assets/TeamPicture.jpeg)--!>
