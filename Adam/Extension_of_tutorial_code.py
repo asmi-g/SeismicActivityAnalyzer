@@ -111,7 +111,6 @@ def process_seismic_file(file_path):
     else:
         print(f"Unsupported file format: {file_ext}")
 
-# Parse arguments from the terminal using argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process seismic data from CSV or miniSEED file.")
     parser.add_argument("file_path", type=str, help="Path to the seismic data file (CSV or miniSEED).")
